@@ -116,8 +116,9 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## 📌 Credits
 This project was built by following the tutorial: "sql-data-warehouse-project" by Data with Baraa.
 
-**Original Tutorial Link:**
+**Original Tutorial Link:**\
 https://www.youtube.com/watch v=YX9d7Q7MN9M&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&index=46
+
 **Creator's GitHub:**
 https://github.com/DataWithBaraa
 
