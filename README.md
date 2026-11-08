@@ -3,7 +3,7 @@
 Welcome to the Data Warehouse and Analytics Project repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-## 🏗️ Data Architecture:
+## Data Architecture:
 
 **The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:**
 <img width="740" height="418" alt="image" src="https://github.com/user-attachments/assets/2bbf10b3-39f0-4072-ab86-a5fe65a05df9" />
@@ -15,7 +15,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
-## 📖 Project Overview:
+## Project Overview:
 
 **This project involves:**
 
@@ -29,7 +29,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## 🛠️ Tools Used:
+## Tools Used:
 
 **Datasets**: Access to the project dataset (csv files).
 
@@ -47,7 +47,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
-## 🚀 Project Requirements:
+## Project Requirements:
 
 **Building the Data Warehouse (Data Engineering)**
 
@@ -78,7 +78,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-### 📂 Repository Structure
+### Repository Structure
 
 ```
 data-warehouse-project
@@ -108,12 +108,12 @@ data-warehouse-project
 
 ---
 
-## 🛡️License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ---
 
-## 📌 Credits
+## Credits
 This project was built by following the tutorial: "sql-data-warehouse-project" by Data with Baraa.
 
 **Original Tutorial Link:**\
@@ -124,7 +124,7 @@ https://github.com/DataWithBaraa
 
 ---
 
-## 🌟 About me
+## About me
 Hi, I'm **Yeung Yi Shun Elson**. A Computer Science student who is passionate about the world of CS and IT. Today I continue to work on projects to strengthen my skills programming and IT scripting: visually, step by step.
 
 **Github**: https://github.com/Cheese1113
